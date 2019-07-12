@@ -15,7 +15,7 @@ The evaluation of the algorithms show that simpler models like Logistic Regressi
 
 |      Model 			| Test Error  	| AUC     	|  
 |:-----------------	|:-----------	|:-----------	|
-| Logistic Regression with $$l_2$$ Regularization           	| 37.33 %        | 0.69        | 
+| Logistic Regression with L2 Regularization           	| 37.33 %        | 0.69        | 
 | Random Forest          	| 46.66 %        | 0.533        |
 | AdaBoost           	| 49.06 %        | 0.563        |
 | SVM with Linear Kernel           	| 40.21 %        | 0.682        |
