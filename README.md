@@ -7,8 +7,8 @@ In this project, we predict the Dow Jones Industrial Average (DJIA) market index
 
 
 
-|       			| Accuracy  	| Recall     	| Precision 	| 
-|:-----------------	|:-----------	|:-----------	|:-----------	|
-| Logistic Regression with $l_2$ Regularization           	| 0.9757        | 0.6299        | 0.3571       	| 
+|      Model 			| Test Error  	| AUC     	|  
+|:-----------------	|:-----------	|:-----------	|
+| Logistic Regression with $$l_2$$ Regularization           	| 0.9757        | 0.6299        | 
 
 
