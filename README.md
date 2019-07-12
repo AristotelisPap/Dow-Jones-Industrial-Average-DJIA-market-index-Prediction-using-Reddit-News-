@@ -8,7 +8,7 @@ Additionally, before we make the prediction for each day's 'Close' price, we use
 
 In order to solve the problem, we apply several machine learning algorithms including Logistic Regression with L2 regularization, Random Forest, AdaBoost and Support Vector Machines with Linear and Gaussian kernels. The performance of the algorithms is evaluated using test set accuracy as well as ROC curves and AUC which are the de facto evaluation metrics for this kind of problems. 
 
-The evaluation of the algorithms show that simpler models like Logistic Regression and Support Vector Machines with Linear kernels behave better than the most sophisticated ones in the particular dataset mainly because of the limited size of the dataset. Finally, the Generalization Bound Inequality is used in order to mathematically derive an upper bound for the test accuracy and pick the best out of the models used [see Project Report]. Last, a final comparison with already existing techniques from Kaggle is also made showing the superior performance of our approach.
+The evaluation of the algorithms show that simpler models like Logistic Regression and Support Vector Machines with Linear kernels behave better than the most sophisticated ones in the particular dataset mainly because of the limited size of the dataset. Finally, the Generalization Bound Inequality is used in order to mathematically derive an upper bound for the test accuracy and pick the best out of the models used [see Project Report]. Last, a final comparison with already existing techniques from Kaggle is also made showing the superior performance of our approach [see Project Report].
 
 
    **Table: Final Results**
